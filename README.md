@@ -1,8 +1,7 @@
 # Software-Testing-Intern
 This repository shows the report and code of the test cases developed during my internship.
 
-Note that this is the not original repository that I used during the internship neither the account. I have created this repository to show the project and the report of the work done in the project.
-
+<h4> Note that this is the project I was given as a training part of my internship. The project I worked on after training was under the non-disclosure agreement. </h4>
 
 Description of the project:
 
